@@ -1,6 +1,6 @@
 #include <iostream>
 int policz(int a,int b) {
-    return a*b;
+    return a+b;
 }
 int main()
 {
